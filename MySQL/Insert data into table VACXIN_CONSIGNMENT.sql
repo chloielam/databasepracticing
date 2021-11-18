@@ -1,0 +1,21 @@
+INSERT INTO vacxin_consignment VALUES('123515','ASTRA ZENECA','AstraZeneca','25/10/2022','100','25/10/2019','VietNam Medical','15','15/01/2019');
+INSERT INTO vacxin_consignment VALUES('231535','ASTRA ZENECA','AstraZeneca','30/04/2023','100','30/04/2020','VietNam Medical','25','18/02/2019');
+INSERT INTO vacxin_consignment VALUES('158695','PFIZER','Domino','30/12/2022','150','30/12/2019','VietNam Medical 1','30','25/04/2019');
+INSERT INTO vacxin_consignment VALUES('262252','PFIZER','Domino','26/05/2022','150','26/05/2019','VietNam Medical 1','5','15/06/2019');
+INSERT INTO vacxin_consignment VALUES('136636','PFIZER','Domino','30/07/2022','150','30/07/2019','VietNam Medical 1','15','30/10/2019');
+INSERT INTO vacxin_consignment VALUES('145828','MODERNA','Tencent','25/10/2023','100','25/10/2020','VietNam Medical 2','15','14/02/2019');
+INSERT INTO vacxin_consignment VALUES('253252','MODERNA','Tencent','30/08/2023','100','30/08/2020','VietNam Medical 2','25','16/11/2019');
+INSERT INTO vacxin_consignment VALUES('255626','MODERNA','Tencent','21/02/2023','100','21/02/2020','VietNam Medical 2','15','05/02/2019');
+INSERT INTO vacxin_consignment VALUES('159998','MODERNA','Tencent','26/11/2022','100','26/11/2019','VietNam Medical 2','30','15/01/2019');
+INSERT INTO vacxin_consignment VALUES('113123','SINOVAC','FPT','05/10/2023','80','05/10/2020','VietNam Medical 3','5','17/09/2020');
+INSERT INTO vacxin_consignment VALUES('255255','SINOVAC','FPT','30/05/2024','80','30/05/2021','VietNam Medical 3','15','26/09/2020');
+INSERT INTO vacxin_consignment VALUES('125455','SINOVAC','FPT','26/08/2024','80','26/08/2021','VietNam Medical 3','25','25/07/2020');
+INSERT INTO vacxin_consignment VALUES('169692','SINOVAC','FPT','03/08/2024','80','03/08/2021','VietNam Medical 3','20','15/03/2020');
+INSERT INTO vacxin_consignment VALUES('220225','SINOVAC','FPT','06/08/2024','80','06/08/2021','VietNam Medical 3','20','12/04/2020');
+INSERT INTO vacxin_consignment VALUES('255255','SINOPHARM','Lucius','09/10/2024','200','09/04/2021','VietNam Medical 4','30','16/05/2020');
+INSERT INTO vacxin_consignment VALUES('215114','JANSSEN','Hitsabi','19/08/2023','120','19/08/2020','VietNam Medical 5','5','23/06/2020');
+INSERT INTO vacxin_consignment VALUES('256355','JANSSEN','Hitsabi','25/09/2024','120','25/09/2021','VietNam Medical 5','15','30/04/2020');
+INSERT INTO vacxin_consignment VALUES('199665','JANSSEN','Hitsabi','26/09/2023','120','26/09/2020','VietNam Medical 5','25','29/08/2020');
+INSERT INTO vacxin_consignment VALUES('175255','JANSSEN','Hitsabi','18/09/2024','120','18/09/2021','VietNam Medical 5','20','15/04/2020');
+INSERT INTO vacxin_consignment VALUES('212555','JANSSEN','Hitsabi','20/10/2024','120','20/10/2021','VietNam Medical 5','20','13/08/2020');
+
